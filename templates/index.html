@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>FAQ Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+
+  <div class="chat-container">
+    <div class="chat-header">
+      <h1>🤖 FAQ Chatbot</h1>
+      <p>Ask me anything about the CodeAlpha internship</p>
+    </div>
+
+    <!-- All chat messages get appended inside this box by script.js -->
+    <div class="chat-box" id="chat-box">
+      <div class="message bot-message">
+        Hi! I'm your FAQ assistant. Ask me a question about the internship
+        (tasks, certificates, submissions, GitHub, etc.)
+      </div>
+    </div>
+
+    <div class="chat-input-area">
+      <input
+        type="text"
+        id="user-input"
+        placeholder="Type your question here..."
+        autocomplete="off"
+      />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is an organization that offers virtual internship programs in domains like Web Development, Android Development, Artificial Intelligence, Python Programming, and more."
+  },
+  {
+    "question": "How long is the internship?",
+    "answer": "The internship duration is typically 1 month, during which interns must complete a minimum of 2 or 3 tasks from their assigned domain."
+  },
+  {
+    "question": "How many tasks do I need to complete?",
+    "answer": "You need to complete a minimum of two or three tasks out of the four listed for your domain to be eligible for the completion certificate."
+  },
+  {
+    "question": "Where do I submit my completed tasks?",
+    "answer": "You need to submit your completed tasks using the official Submission Form, which is shared in your respective WhatsApp group."
+  },
+  {
+    "question": "Do I need to upload my code to GitHub?",
+    "answer": "Yes, you must upload your complete source code to GitHub in a repository named CodeAlpha_ProjectName."
+  },
+  {
+    "question": "Do I need to post about my internship on LinkedIn?",
+    "answer": "Yes, you should share your internship status on LinkedIn while tagging @CodeAlpha, and also post a video explanation of your project along with the GitHub repo link."
+  },
+  {
+    "question": "Will I get a certificate after the internship?",
+    "answer": "Yes, once you complete the minimum required tasks and follow the submission process, you will be eligible for an internship completion certificate."
+  },
+  {
+    "question": "What happens if I submit only one task?",
+    "answer": "Submitting only one task will be considered incomplete, and certificates will not be issued in such cases."
+  },
+  {
+    "question": "Can I contact CodeAlpha for help?",
+    "answer": "Yes, you can reach out via WhatsApp at +91 9336576683 or email services@codealpha.tech or services.codealpha@gmail.com."
+  },
+  {
+    "question": "What is the AI internship task list?",
+    "answer": "The AI domain task list includes: a Language Translation Tool, a Chatbot for FAQs, Music Generation with AI, and Object Detection and Tracking. You need to complete any 2 or 3 of these."
+  },
+  {
+    "question": "How do I build a chatbot for FAQs?",
+    "answer": "You collect FAQs on a topic, preprocess the text using NLP libraries like NLTK or spaCy, match user questions to the most similar FAQ using techniques like cosine similarity, and display the best matching answer."
+  },
+  {
+    "question": "What is cosine similarity?",
+    "answer": "Cosine similarity is a technique that measures how similar two pieces of text are by comparing the angle between their vector representations, regardless of their length."
+  },
+  {
+    "question": "What is NLTK?",
+    "answer": "NLTK, or Natural Language Toolkit, is a Python library used for working with human language data, offering tools for tokenization, stemming, tagging, and more."
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a numerical measure that reflects how important a word is to a document relative to a collection of documents, and it is commonly used to convert text into vectors for comparison."
+  },
+  {
+    "question": "Do I get a Letter of Recommendation?",
+    "answer": "Yes, based on performance, interns may receive a Letter of Recommendation."
+  },
+  {
+    "question": "Does CodeAlpha offer job opportunities?",
+    "answer": "Yes, CodeAlpha provides job opportunities and placement support along with resume building support for eligible interns."
+  },
+  {
+    "question": "What is the official website of CodeAlpha?",
+    "answer": "The official website is www.codealpha.tech."
+  },
+  {
+    "question": "What is My Name?",
+    "answer": "Thejas Lekkala"
+  }
+]
